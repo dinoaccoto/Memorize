@@ -1,0 +1,115 @@
+﻿Infinitief	Imperfectum sing	Imperfectum plur	Participium	h/z	Translation
+bakken	bakte	bakten	gebakken	+h
+beginnen	begon	begonnen	begonnen	+z
+begrijpen	begreep	begrepen	begrepen	+h
+besluiten	besloot	besloten	besloten	+h	to decide
+bestaan	bestond	bestonden	bestaan	+h	to live
+bewegen	bewoog	bewogen	bewogen	+h
+bewijzen	bewees	bewezen	bewezen	+h	to prove, demonstrate
+bezitten	bezat	bezaten	bezeten	+h	to own, possess
+bezoeken	bezocht	bezochten	bezocht	+h
+bieden	bood	boden	geboden	+h	offer/propose
+binden	bond	bonden	gebonden	+h
+blijken	bleek	bleken	gebleken	+z	turn out, to appear
+blijven	bleef	bleven	gebleven	+z	stay
+blinken	blonk	blonken	geblonken	+h
+breken	brak	braken	gebroken	+h
+brengen	bracht	brachten	gebracht	+h
+buigen	boog	bogen	gebogen	+h	to bend, bow
+denken	dacht	dachten	gedacht	+h
+doen	deed	deden	gedaan	+h
+dragen	droeg	droegen	gedragen	+h
+drinken	dronk	dronken	gedronken	+h
+dwingen	dwong	dwongen	gedwongen	+h	force, compel
+eten	at	aten	gegeten	+h
+gaan	ging	gingen	gegaan	+z
+genieten	genoot	genoten	genoten	+h
+geven	gaf	gaven	gegeven	+h
+glijden	gleed	gleden	gegleden	+h/+z
+glimmen	glom	glommen	geglommen	+h	to shine
+grijpen	greep	grepen	gegrepen	+h
+hangen	hing	hingen	gehangen	+h
+hebben	had	hadden	gehad	+h
+helpen	hielp	hielpen	geholpen	+h
+heten	heette	heetten	geheten	+h
+houden	hield	hielden	gehouden	+h
+kiezen	koos	kozen	gekozen	+h
+kijken	keek	keken	gekeken	+h
+klimmen	klom	klommen	geklommen	+h/+z
+klinken	klonk	klonken	geklonken	+h
+komen	kwam	kwamen	gekomen	+z
+kopen	kocht	kochten	gekocht	+h
+krijgen	kreeg	kregen	gekregen	+h
+kunnen	kon	konden	gekund	+h
+lachen	lachte	lachten	gelachen	+h
+laten	liet	lieten	gelaten	+h
+lezen	las	lazen	gelezen	+h
+liegen	loog	logen	gelogen	+h	to lie
+liggen	lag	lagen	gelegen	+h
+lijden	leed	leden	geleden	+h	to suffer
+lijken	leek	leken	geleken	+h
+lopen	liep	liepen	gelopen	+h
+moeten	moest	moesten	gemoeten	+h
+mogen	mocht	mochten	gemogen	+h
+nemen	nam	namen	genomen	+h
+onderzoeken	onderzocht	onderzochten	onderzocht	+h
+ontbijten	ontbeet	ontbeten	ontbeten	+h
+ontstaan	ontstond	ontstonden	ontstaan	+z	to arise, originate
+optreden	trad op	traden op	opgetreden	+h/+z	to perform, appear
+overlijden	overleed	overleden	overleden	+z
+rijden	reed	reden	gereden	+h/+z
+roepen	riep	riepen	geroepen	+h
+ruiken	rook	roken	geroken	+h	to smell
+schijnen	scheen	schenen	geschenen	+h
+schieten	schoot	schoten	geschoten	+h	to shoot
+schrijven	schreef	schreven	geschreven	+h
+schrikken	schrok	schrokken	geschrokken	+z
+slaan	sloeg	sloegen	geslagen	+h
+slapen	sliep	sliepen	geslapen	+h
+sluiten	sloot	sloten	gesloten	+h
+snijden	sneed	sneden	gesneden	+h
+spreken	sprak	spraken	gesproken	+h
+springen	sprong	sprongen	gesprongen	+h
+staan	stond	stonden	gestaan	+h
+steken	stak	staken	gestoken	+h	to stick, insert
+stelen	stal	stalen	gestolen	+h
+sterven	stierf	stierven	gestorven	+z
+stijgen	steeg	stegen	gestegen	+z	to rise, climb
+stinken	stonk	stonken	gestonken	+h
+strijden	streed	streden	gestreden	+h	to fight, to battle
+toegeven	gaf toe	gaven toe	toegegeven	+h	to admit, concede, give in
+toelaten	liet toe	lieten toe	toegelaten	+h	to allow
+trekken	trok	trokken	getrokken	+h	to pull
+vallen	viel	vielen	gevallen	+z
+vangen	ving	vingen	gevangen	+h
+vechten	vocht	vochten	gevochten	+h	to fight
+verbergen	verborg	verborgen	verborgen	+h	to hide
+verbieden	verbood	verboden	verboden	+h
+verbinden	verbond	verbonden	verbonden	+h
+verdwijnen	verdween	verdwenen	verdwenen	+z	to disappear, vanish
+vergelijken	vergeleek	vergeleken	vergeleken	+h	to compare
+vergeten	vergat	vergaten	vergeten	+h/+z
+verkopen	verkocht	verkochten	verkocht	+h
+verliezen	verloor	verloren	verloren	+h
+verschijnen	verscheen	verschenen	verschenen	+z	to appear, show up
+vertrekken	vertrok	vertrokken	vertrokken	+z
+verzinnen	verzon	verzonnen	verzonnen	+h	to invent
+vinden	vond	vonden	gevonden	+h
+vliegen	vloog	vlogen	gevlogen	+h/+z
+vragen	vroeg	vroegen	gevraagd	+h
+wassen	waste	wasten	gewassen	+h
+wegen	woog	wogen	gewogen	+h
+weten	wist	wisten	geweten	+h
+wijzen	wees	wezen	gewezen	+h	to point, to show
+willen	wou/wilde	wilden	gewild	+h
+winnen	won	wonnen	gewonnen	+h
+worden	werd	werden	geworden	+z
+zeggen	zei/zegde	zeiden/zegden	gezegd	+h
+zenden	zond	zonden	gezonden	+h
+zien	zag	zagen	gezien	+h
+zijn	was	waren	geweest	+z
+zingen	zong	zongen	gezongen	+h
+zitten	zat	zaten	gezeten	+h
+zoeken	zocht	zochten	gezocht	+h
+zwemmen	zwom	zwommen	gezwommen	+h
+zwijgen	zweeg	zwegen	gezwegen	+h	to be silent
