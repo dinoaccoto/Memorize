@@ -61,16 +61,20 @@ if "in_riproposizione" not in st.session_state:
 if "answered" not in st.session_state:
     st.session_state["answered"] = False
 
+if "colonne_da_mostrare" not in st.session_state:
+    st.session_state["colonne_da_mostrare"] = None
+
 # Mostra i file .txt presenti nella directory "cards"
 txt_files = [f for f in os.listdir("cards") if f.endswith(".txt")]
 if not txt_files:
     st.error("Nessun file .txt trovato nella cartella 'cards'. Aggiungi dei file per continuare.")
     st.stop()
 
-# Se la tabella non è stata ancora caricata, chiedi all'utente di selezionare file, r_el, batch_size e shuffle
+# Se la tabella non è stata ancora caricata, chiedi all'utente di selezionare file, r_el, k, batch_size e shuffle
 if "tabella" not in st.session_state:
     nome_file = st.selectbox("Seleziona il file da caricare:", txt_files, index=0)
     r_el = st.number_input("Righe in un elemento:", min_value=1, value=1)
+    k = st.number_input("Colonne in un elemento:", min_value=1, value=1)
     batch_size = st.number_input("Elementi in un batch:", min_value=1, value=10)
     shuffle_choice = st.radio("Shuffle?", ("Sì", "No"), index=0)
 
@@ -87,9 +91,9 @@ if "tabella" not in st.session_state:
                 tabella = tabella.sample(frac=1, random_state=seed).reset_index(drop=True)
             st.session_state["batches"] = crea_batch(tabella, batch_size)
             st.session_state["tabella"] = tabella
+            st.session_state["colonne_da_mostrare"] = k
             st.rerun()
     else:
-        # Se non è stato ancora premuto il pulsante "Carica", interrompi l'esecuzione
         st.stop()
 
 # Da qui in avanti la tabella è caricata
@@ -110,24 +114,32 @@ if batch is not None:
     if riga < len(batch):
         st.write(f"### Batch {batch_index + 1}/{len(batches)}, Elemento {riga + 1}/{len(batch)}")
 
-        # Mostra il contenuto della prima cella in grassetto, conservando i newline
-        valore = batch.iloc[riga, 0]
-        valore_formattato = valore.replace("\n", "<br>")
-        st.markdown(f"**{valore_formattato}**", unsafe_allow_html=True)
+        # Mostra il contenuto delle prime k colonne, tutte insieme, prima del pulsante "Check"
+        k = st.session_state["colonne_da_mostrare"]
+        dettaglio_iniziale = ""
+        for col_index in range(min(k, len(batch.columns))):
+            valore = batch.iloc[riga, col_index]
+            valore_formattato = valore.replace("\n", "<br>")
+            # Rendiamo in grassetto la prima colonna, le altre possono rimanere in semplice testo.
+            # Ma se si preferisce, si possono tutte rendere in grassetto.
+            
+            dettaglio_iniziale += f"**{valore_formattato}**<br>"
 
+        st.markdown(dettaglio_iniziale, unsafe_allow_html=True)
+
+        # Mostra il pulsante "Check"
         if st.button("Check", key=f"check_{riga}"):
             st.session_state["mostra_dettagli"] = True
             st.session_state["answered"] = False  # Reset dopo aver premuto Check
 
         if st.session_state["mostra_dettagli"]:
-            # Qui formattiamo come richiesto:
-            # intestazione in corsivo, contenuto in grassetto, niente ";", e poi a capo.
+            # Qui si mostra TUTTA la riga (tutte le colonne) in dettaglio formattato,
+            # come prima, senza modifiche
             dettagli_str = ""
             for col in batch.columns:
                 col_valore = batch.iloc[riga][col].replace("\n", " ")
                 dettagli_str += f"*{col}:* **{col_valore}**<br>"
 
-            # Mostra tutto in un unico markdown
             st.markdown(dettagli_str, unsafe_allow_html=True)
 
             # Disposizione dei pulsanti: Yes - Next - No
