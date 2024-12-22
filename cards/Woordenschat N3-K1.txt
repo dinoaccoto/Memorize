@@ -1,6 +1,6 @@
 woord	woord, artikel (extra info)	Voorbeeldzin	Traduzione
 babbelen	babbelen (babbelde, h. gebabbeld)	In de pauze is het gezellig om met de andere studenten te babbelen.	"Durante la pausa è bello chiacchierare con gli altri studenti."
-beantwoorden	beantwoorden (beantwoordde, h. beantwoord)	Wij hebben uw e-mail nog niet beantwoord, omdat we het antwoord op uw vraag nog niet gevonden hebben.	-
+beantwoorden	beantwoorden (beantwoordde, h. beantwoord)	Wij hebben uw e-mail nog niet beantwoord, omdat we het antwoord op uw vraag nog niet gevonden hebben.	"Non abbiamo ancora risposto alla sua e-mail perché non abbiamo ancora trovato la risposta alla sua domanda."
 bedoeling	bedoeling, de [-en]	De bedoeling van dit spel is niet dat je wint, maar dat je plezier maakt.	"Lo scopo di questo gioco non è vincere, ma divertirsi."
 beloven	beloven (beloofde, h. beloofd)	Je hebt beloofd dat je de auto gaat wassen. Dan moet je dat ook doen!	"Hai promesso che avresti lavato l'auto. Allora devi farlo!"
 bespreken	bespreken (besprak, h. besproken)	Ik kan dat niet alleen beslissen. Je moet dat met de directeur bespreken.	"Non posso deciderlo da solo. Devi discuterne con il direttore."
