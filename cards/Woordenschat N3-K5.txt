@@ -1,0 +1,35 @@
+Woord	"Woord, artikel (extra info)"	Voorbeeldzin	Traduzione
+aanvaarden = accepteren	"aanvaarden = accepteren (aanvaardde, h. aanvaard)"	"Als iedereen akkoord gaat, kunnen we dit voorstel aanvaarden (/ accepteren)."	"Se tutti sono d'accordo, possiamo accettare questa proposta."
+accepteren	"accepteren (accepteerde, h. geaccepteerd) = aanvaarden"	We moeten leren accepteren dat niet iedereen dezelfde mening heeft.	Dobbiamo imparare ad accettare che non tutti abbiano la stessa opinione.
+belasting	"belasting, de [-en]"	"Als je werkt en een loon krijgt, moet je ook belastingen betalen."	"Se lavori e ricevi uno stipendio, devi anche pagare le tasse."
+bewijs	"bewijs, het [-wijzen]"	"Als de politie geen bewijzen kan vinden dat hij de dader is, kunnen ze hem niet arresteren."	"Se la polizia non riesce a trovare prove che lui sia il colpevole, non può arrestarlo."
+boete	"boete, de [-s/-n]"	Jean heeft in het centrum 65 km/u gereden. Dat is te snel. De politie heeft hem een boete gegeven.	Jean ha guidato nel centro città a 65 km/h. È troppo veloce. La polizia gli ha dato una multa.
+btw	"btw, de (= belasting over de toegevoegde waarde)"	Bij deze factuur is de btw niet inbegrepen. Je moet dus nog 6% bij de prijs tellen.	In questa fattura non è inclusa l'IVA. Devi quindi aggiungere il 6% al prezzo.
+burgemeester	"burgemeester, de [-s]"	De burgemeester organiseerde een nieuwjaarsreceptie op de markt voor alle inwoners van de stad.	Il sindaco ha organizzato una ricezione di capodanno in piazza per tutti i cittadini della città.
+burger	"burger, de [-s]"	De meeste burgers van deze stad zijn tevreden met het nieuwe verkeersplan.	La maggior parte dei cittadini di questa città è soddisfatta del nuovo piano del traffico.
+chef	"chef, de [-s]"	Piet is de baas van onze afdeling. Hij is onze chef.	Piet è il capo del nostro reparto. È il nostro dirigente.
+gevangenis	"gevangenis, de [-sen]"	De dief moest 5 jaar naar de gevangenis. Dat was zijn straf voor zijn misdaad. 	Il ladro doveva scontare 5 anni di prigione. Questa è stata la sua punizione per il suo crimine.
+goedkeuren	"goedkeuren (keurde goed, h. goedgekeurd)"	De regering heeft het nieuwe belastingsplan goedgekeurd. De superrijke mensen zullen meer belastingen moeten betalen.	Il governo ha approvato il nuovo piano fiscale. Le persone molto ricche dovranno pagare più tasse.
+illegaal	illegaal	De politie ontdekte een illegale cannabisplantage in een mooie villa.	La polizia ha scoperto una piantagione illegale di cannabis in una bella villa.
+legaal = wettelijk	legaal = wettelijk	Je hebt een identiteitskaart nodig om legaal te reizen.	Hai bisogno di una carta d'identità per viaggiare legalmente.
+macht	"macht, de"	De president van dit land heeft veel macht. Hij kan veel dingen beslissen.	Il presidente di questo paese ha molto potere. Può decidere molte cose.
+machtig	machtig	De president van dit land is heel machtig: hij heeft veel invloed op de beslissingen van de regering.	Il presidente di questo paese è molto potente: ha molta influenza sulle decisioni del governo.
+officieel	officieel	Een diploma is een officieel document.	Un diploma è un documento ufficiale.
+openbaar	openbaar	Dit is een openbare speeltuin waar alle kinderen mogen komen spelen.	Questa è una scuola pubblica dove tutti i bambini possono venire a giocare.
+overheid	"overheid, de [-heden]"	Het is de taak van de overheid om ervoor te zorgen dat de burgers zich veilig voelen.	È compito del governo garantire che i cittadini si sentano al sicuro.
+personeel	"personeel, het"	Het personeel van dit hotel is super vriendelijk. Je voelt je hier echt welkom.	Il personale di questo hotel è molto amichevole. Ti senti davvero benvenuto qui.
+plegen	"plegen (pleegde, h. gepleegd)"	Ze weten nog niet wie de misdaad gepleegd heeft. De politie is nog bezig met het onderzoek.	Non sanno ancora chi ha commesso il crimine. La polizia sta ancora indagando.
+recht	"recht, het [-en]"	Reda heeft rechten gestudeerd. Ze is gespecialiseerd in internationaal recht.	Reda ha studiato giurisprudenza. È specializzata in diritto internazionale.
+regel	"regel, de [-s]"	In het verkeer is het belangrijk dat iedereen de regels volgt. Anders gebeuren er ongevallen.	Nel traffico è importante che tutti seguano le regole. Altrimenti si verificano incidenti.
+stadhuis	"stadhuis, het [-huizen]"	Het kantoor van de burgemeester is in het stadhuis. In het stadhuis zijn er ook loketten waar je informatie kan vragen.	L'ufficio del sindaco si trova nel municipio. Nel municipio ci sono anche sportelli dove puoi chiedere informazioni.
+straf	"straf , de [-fen]"	"Iemand die een misdaad gepleegd heeft, moet altijd een straf krijgen, vind ik."	"Chi ha commesso un crimine dovrebbe sempre ricevere una punizione, secondo me."
+straffen	"straffen (strafte, h. gestraft)"	De rechter besloot de dader streng te straffen voor zijn misdaden.	Il giudice ha deciso di punire severamente il colpevole per i suoi crimini.
+subsidie	"subsidie, de [-s]"	Arme gezinnen kunnen een subsidie van de overheid krijgen om hun energiefactuur te betalen.	Le famiglie povere possono ricevere un sussidio dal governo per pagare la loro bolletta energetica.
+verbieden	"verbieden (verbood, h. verboden)"	De lesgever verbiedt het gebruik van gsm's in de klas.	L'insegnante vieta l'uso dei telefoni cellulari in classe.
+verboden	verboden	Het is verboden (om) hier te parkeren. Je mag hier niet parkeren.	È vietato parcheggiare qui. Non puoi parcheggiare qui.
+verplichten (tot)	"verplichten (tot) (verplichtte, h. verplicht)"	Het is verplicht in de auto een veiligheidsgordel te dragen.	È obbligatorio indossare la cintura di sicurezza in auto.
+verplichting	"verplichting, de [-en]"	Het betalen van belastingen is een wettelijke verplichting.	Il pagamento delle tasse è un obbligo legale.
+vrij	vrij	"Ik ben klaar met mijn huiswerk. Nu ben ik vrij om te doen wat ik wil, joepie!"	"Ho finito i miei compiti. Ora sono libero di fare quello che voglio, evviva!"
+vrijheid	"vrijheid, de [-heden]"	"Je moet je kinderen ook een beetje vrijheid geven, zodat ze eigen keuzes leren maken."	"Devi dare ai tuoi bambini un po' di libertà, così imparano a fare scelte autonome."
+waarschuwen (voor)	"waarschuwen (voor) (waarschuwde, h. gewaarschuwd)"	Het weerbericht waarschuwt voor felle storm vannacht. Ze geven de raad binnen te blijven.	Il bollettino meteorologico avverte di una forte tempesta stasera. Consigliano di rimanere dentro.
+wettelijk	wettelijk	Het is wettelijk verplicht om belastingen te betalen.	È obbligatorio per legge pagare le tasse.
