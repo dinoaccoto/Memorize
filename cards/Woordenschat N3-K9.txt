@@ -1,0 +1,58 @@
+Woord	"Woord, artikel (extra info)"	Voorbeeldzin	Traduzione
+aandacht = de attentie	"aandacht = de attentie, de"	"Als de lesgever iets uitlegt, luisteren alle cursisten met veel aandacht, want ze willen alles begrijpen."	"Quando l'insegnante spiega qualcosa, tutti gli studenti ascoltano con molta attenzione, perché vogliono capire tutto."
+af en toe	af en toe	"Ik ga af en toe op bezoek bij mijn grootouders. Maar ik zou vaker willen gaan, het is altijd gezellig."	"Vado a trovare i miei nonni ogni tanto. Ma vorrei andarci più spesso, è sempre piacevole."
+beëindigen	"beëindigen (beëindigde, h. beëindigd)"	Tim heeft zijn relatie met Suzanne beëindigd. Hij kon niet meer met haar samenleven.	Tim ha interrotto la sua relazione con Suzanne. Non riusciva più a convivere con lei.
+bekijken	"bekijken (bekeek, h. bekeken)"	Ik ga naar het autosalon om de nieuwe automodellen te bekijken.	Vado al salone dell'auto per vedere i nuovi modelli di automobili.
+binnenkort	binnenkort (adv)	Wij verhuizen binnenkort naar Antwerpen. We wonen hier nog 2 weken en dan zijn we weg.	"Presto ci trasferiremo ad Anversa. Vivremo qui ancora per 2 settimane, poi ce ne andremo."
+blind	blind	Paula kan niets zien. Ze is blind. Ze is blind geboren.	Paula non può vedere nulla. È cieca. È nata cieca.
+dagelijks	dagelijks	Zij gaat elke avond met de hond in het park wandelen. Dat is voor haar een dagelijkse activiteit.	Ogni sera lei va a passeggiare con il cane nel parco. Questa è per lei un'attività quotidiana.
+eergisteren	eergisteren (adv)	Vandaag is het woensdag. Eergisteren (maandag dus) heb ik mijn postpakket teruggestuurd.	"Oggi è mercoledì. L'altro ieri (lunedì, quindi) ho restituito il mio pacco postale."
+eeuw	"eeuw, de [-en]"	In de 19e eeuw had België veel minder inwoners dan nu.	Nel XIX secolo il Belgio aveva molti meno abitanti rispetto ad oggi.
+eindigen	"eindigen (eindigde, is geëindigd)"	De cursus eindigt op 21 maart. Dan hebben we de eindtest.	Il corso termina il 21 marzo. Poi faremo il test finale.
+geluid	"geluid, het [-en]"	Ik hoor iets raars. Wat is dat rare geluid?	Sento qualcosa di strano. Che cos'è quel rumore strano?
+geregeld	geregeld (adv)	Hij gaat geregeld naar de sportschool om fit te blijven: 3 keer per week.	Lui va regolarmente in palestra per mantenersi in forma: 3 volte alla settimana.
+geur	"geur, de [-en]"	Ik hou van de geur van deze bloemen: ze ruiken echt lekker. - De geur van rotte vis is afschuwelijk!	Amo il profumo di questi fiori: hanno un odore davvero piacevole. - L'odore di pesce marcio è disgustoso!
+herkennen	"herkennen (herkende, h. herkend)"	We hebben elkaar 10 jaar niet gezien. Maar toch herken ik jou. Je bent niet zo veel veranderd.	Non ci vediamo da 10 anni. Eppure ti riconosco. Non sei cambiato molto.
+horloge	"horloge, het [-s]"	"Hoe laat is het? - Ik weet het niet, ik heb geen horloge."	"Che ore sono? - Non lo so, non ho l'orologio."
+huidig	huidig	Ik ben niet tevreden met mijn huidige job. Ik zoek ander werk.	Non sono soddisfatto del mio attuale lavoro. Sto cercando un altro impiego.
+jaarlijks	jaarlijks	Je moet jaarlijks op controle gaan bij de tandarts. Ik ga elk jaar in juni.	Devi andare ogni anno dal dentista per un controllo. Io ci vado ogni anno a giugno.
+juist = net = pas	juist = net = pas (adv)	"Heb je de lesgever gezien? - Ja, hij is juist naar buiten gegaan."	"Hai visto l'insegnante? - Sì, è appena uscito."
+kalender	"kalender , de [-s]"	Wanneer is tante Rita jarig? - Dat kan je op de verjaardagskalender zien.	Quando è il compleanno di zia Rita? - Lo puoi vedere sul calendario dei compleanni.
+lawaai = de herrie = het rumoer	"lawaai = de herrie = het rumoer, het"	Er is veel lawaai van het verkeer. Het is moeilijk om je te horen - De kinderen buiten maken veel lawaai.	C'è molto rumore per il traffico. È difficile sentirti. - I bambini fuori fanno molto rumore.
+lijken	"lijken (leek, h. geleken)"	Onze hond lijkt ziek. We gaan naar de dierenarts om te controleren of hij echt ziek is.	Il nostro cane sembra malato. Andiamo dal veterinario per controllare se è davvero malato.
+lijken op	"lijken op (leek op, h. geleken op)"	Cynthia lijkt goed op haar moeder. Ze zijn even groot en ze hebben allebei blond haar en groene ogen.	Cynthia somiglia molto a sua madre. Hanno la stessa altezza e entrambe hanno i capelli biondi e gli occhi verdi.
+maandelijks	maandelijks	Het maandelijkse bedrag van onze huur is 750 euro. We betalen per maand 750 euro huur.	L'importo mensile del nostro affitto è di 750 euro. Paghiamo 750 euro al mese di affitto.
+merken	"merken (merkte, h. gemerkt)"	Ik merk dat jullie het hier leuk vinden: ik zie jullie lachen.	Mi accorgo che vi piace stare qui: vi vedo ridere.
+midden	midden (midden in (de zomer))	Midden in de zomer nemen veel mensen vakantie. Dan is het te warm om te werken.	Nel pieno dell'estate molte persone prendono le ferie. Fa troppo caldo per lavorare.
+momenteel	momenteel (adv) op dit moment	Momenteel heeft hij geen werk. Maar hij hoopt dat hij snel een job zal vinden.	Attualmente non ha un lavoro. Ma spera di trovarne presto uno.
+nadat	nadat (conj)	"Nadat Chiara de kinderen in bed gestopt had, keek ze naar haar favoriete tv-programma."	"Dopo aver messo i bambini a letto, Chiara ha guardato il suo programma televisivo preferito."
+namiddag	"namiddag, de [-dagen]"	Elke namiddag slaap ik een uur. Een siësta 's namiddags is een goede manier om je te ontspannen.	Ogni pomeriggio dormo un'ora. Una siesta nel pomeriggio è un buon modo per rilassarsi.
+net	net (adv)	"Ik was net thuis vertrokken, toen ik zag dat ik mijn gsm niet mee had. Gelukkig was ik nog niet ver."	Ero appena uscito di casa quando ho visto che non avevo portato il cellulare. Per fortuna non ero ancora lontano.
+ondertussen	ondertussen (adv)	Mireia maakte het avondeten. Ondertussen deed haar man de afwas.	Mireia preparava la cena. Nel frattempo suo marito lavava i piatti.
+opvallen	"opvallen (viel op, is opgevallen)"	"In een groep valt Nadia direct op, met haar speciale kleren en haar grote roze bril."	"In un gruppo Nadia si distingue subito, con i suoi vestiti particolari e i suoi grandi occhiali rosa."
+overdag	overdag (adv)	Ada heeft het heel druk. Ze werkt overdag en 's avonds volgt ze een opleiding.	Ada è molto impegnata. Lavora durante il giorno e la sera segue un corso di formazione.
+overmorgen	overmorgen (adv)	Overmorgen vertrek ik naar Rome. Er waren geen tickets meer voor morgen. Dus moet ik nu een dag wachten.	Dopodomani parto per Roma. Non c'erano più biglietti per domani. Quindi devo aspettare un giorno in più.
+proeven	"proeven (proefde, h. geproefd)"	"Ik wist niet hoe dit smaakte, maar ik heb geproefd en ik vind het echt lekker!"	"Non sapevo che sapore avesse questo, ma l'ho assaggiato e mi piace davvero!"
+recent	recent	"Ik heb recent een interessant artikel over de klimaatverandering gelezen,"	Ho letto recentemente un articolo interessante sul cambiamento climatico.
+ruiken	"ruiken (rook, h. geroken)"	"Mmm, het ruikt hier lekker! Staat er een chocoladetaart in de oven?"	"Mmm, che buon odore! C'è una torta al cioccolato nel forno?"
+slot	"slot, het = het einde"	"Op zaterdagmorgen ga ik eerst joggen, dan neem ik een douche en ontbijt ik. En tot slot lees ik de krant."	"Il sabato mattina prima vado a correre, poi faccio la doccia e faccio colazione. E infine leggo il giornale."
+smaken (naar)	smaken (naar)	"(smaakte, h. gesmaakt)"	Amo il silenzio di questo posto nel bosco. Non si sente nulla qui.
+stilte	"stilte, de [s]"	"Ik hou van de stilte van deze plaats in het bos. Je hoort hier niets,"	Possiamo mangiare e parlare contemporaneamente.
+tegelijk = tegelijkertijd	tegelijk = tegelijkertijd (adv)	We kunnen tegelijk eten en praten.	Ho messo l'armadio contro il muro.
+tegen	tegen (prep)	Ik heb de kast tegen de muur gezet.	"Arriva sempre in ritardo al lavoro. Non è mai puntuale. - Ogni volta che lo vedo, sono felice."
+telkens	telkens (adv)	"Hij komt telkens te laat op het werk. Hij is nooit op tijd. - Telkens als ik hem zie, ben ik blij."	"Cerco un lavoro temporaneo, solo per il periodo giugno-settembre."
+tijdelijk	tijdelijk adj	"Ik zoek een tijdelijke job, alleen voor de periode juni-september."	Questa fermata dell'autobus non è utilizzabile temporaneamente a causa dei lavori sulla strada.
+tijdelijk	tijdelijk (adj/ adv)	deze bushalte kan je tijdelijk niet gebruiken omdat er werken aan de straat zijn.	In futuro la tecnologia diventerà sempre più importante.
+toekomst	"toekomst, de"	In de toekomst zal technologie steeds belangrijker worden.	Finora non abbiamo ancora ottenuto risultati dalla nostra ricerca. È frustrante.
+tot nu toe	tot nu toe	Tot nu toe hebben we nog geen resultaat van ons onderzoek. Dat is frustrerend.	Ho letto la prima pagina di questo romanzo e ho voluto continuare subito. Era scritto così bene!
+verder	verder (adv)	Ik las de eerste bladzijde van deze roman en ik wilde direct verder lezen. Het was zo mooi geschreven!	Mia nonna non ama parlare del passato. Vive completamente nel presente e si gode ogni momento.
+verleden	"verleden, het"	Mijn oma spreekt niet graag over het verleden. Ze leeft helemaal in het heden en ze geniet van elk moment nu.	Bah! Trovo le cozze davvero disgustose! Le cozze non sono per niente buone.
+vies	vies	Bah! Ik vind mosselen echt vies! Mosselen zijn helemaal niet lekker.	"Questa mattina mi sono alzato molto presto, prima che sorgesse il sole."
+voor (dat)	voor (dat) (conj)	"Ik ben vanmorgen heel vroeg opgestaan, voor de zon opkwam."	Le vacanze passano sempre troppo velocemente.
+voorbij	voorbij	De vakantie gaat altijd veel te snel voorbij.	In mattinata abbiamo lezione e nel pomeriggio facciamo esercizi a casa.
+voormiddag	"voormiddag, de [-dagen]"	In de voormiddag hebben we les en 's namiddags maken we thuis oefeningen.	In passato andavamo spesso al parco per giocare insieme a calcio. Ora abbiamo tutti troppo lavoro.
+vroeger	vroeger (adv)	Vroeger gingen we vaak naar het park om samen te voetballen. Nu hebben we allemaal te veel werk.	Vado in palestra una volta alla settimana per mantenermi in forma.
+wekelijks	wekelijks	Ik ga wekelijks naar de sportschool om fit te blijven.	"Prendo raramente il treno, forse 2 o 3 volte all'anno. Vado quasi sempre in auto da qualche parte."
+zelden	zelden (adv)	"Ik neem zelden de trein, misschien 2 of 3 keer per jaar. Ik ga bijna altijd met de auto ergens naartoe."	Non è abbastanza buio. Non puoi vedere le stelle. Le stelle non sono visibili.
+zichtbaar	zichtbaar (adj)	Het is niet donker genoeg. Je kan de sterren niet zien. De sterren zijn niet zichtbaar.	Durante un esame deve esserci silenzio. Non puoi parlare. Devi stare zitto.
+zwijgen	"zwijgen (zweeg, h. gezwegen)"	Op een examen moet het stil zijn. Je mag niet praten. Je moet zwijgen.	
