@@ -1,0 +1,27 @@
+Woord	"Woord, artikel (extra info)"	Voorbeeldzin	Traduzione
+academisch	academisch	"Als je aan de universiteit studeert, kan je een academisch diploma behalen."	Se studi all'università puoi conseguire un titolo accademico.
+assistent	"assistent, de [-s]"	Tina is de assistent van professor Franken. Zij werkt mee aan onderzoek en geeft ook enkele lessen.	Tina è l'assistente del professor Franken. Partecipa alla ricerca e tiene anche alcuni corsi.
+chemisch	chemisch	Ben je goed in chemie? Ken jij de chemische formule van dit product?	Sei bravo in chimica? Conosci la formula chimica di questo prodotto?
+economie	"economie, de [-ën]"	"De ministers proberen de economie van het land gezond te houden, maar dat is niet gemakkelijk."	"I ministri stanno cercando di mantenere sana l'economia del Paese, ma non è facile."
+geschiedenis	"geschiedenis, de"	In de les geschiedenis leren we over oude tijden en hoe de mensen toen leefden.	Durante le lezioni di storia impariamo i tempi antichi e come viveva la gente a quei tempi.
+hogeschool	"hogeschool, de [-scholen]"	Zij is klaar met haar middelbaar onderwijs. Zij wil volgend jaar aan de hogeschool studeren.	Ha terminato gli studi secondari. Vuole studiare all'università l'anno prossimo.
+manier = de wijze	"manier = de wijze, de [-en]"	Wat is de beste manier om veel geld te verdienen? Weet jij dat?	Qual è il modo migliore per fare un sacco di soldi? Lo sapevi?
+methode	"methode, de [-n/-s]"	Joaquin heeft een goede studiemethode. Hij kan snel en efficiënt studeren.	Joaquin ha un buon metodo di studio. Può studiare in modo rapido ed efficiente.
+niveau	"niveau, het [-s]"	"Als je klaar bent met deze cursus, heb je een goed basisniveau van Nederlands bereikt."	"Una volta completato questo corso, avrai raggiunto un buon livello base di olandese."
+onderzoek	"onderzoek, het [-en]"	Volgens recent onderzoek is er een duidelijke relatie tussen lichaamsbeweging en psychische gezondheid.	"Secondo recenti ricerche, esiste una chiara relazione tra esercizio fisico e salute mentale."
+ontdekken	"ontdekken (ontdekte, h. ontdekt)"	"Toen ik de zolder van mijn oma opruimde, ontdekte ik een doos met oude foto's en brieven."	"Mentre riordinavo la soffitta di mia nonna, ho scoperto una scatola piena di vecchie fotografie e lettere."
+prestatie	"prestatie, de [-s]"	We zullen de prestatie van Nafi Thiam op de Olympische Spelen nooit vergeten: ze behaalde een gouden medaille!	Non dimenticheremo mai la prestazione di Nafi Thiam alle Olimpiadi: ha vinto una medaglia d'oro!
+professor	"professor, de [professoren/-s]"	Aan onze universiteit hebben wij vaak ook een persoonlijk contact met de professoren.	Nella nostra università abbiamo spesso contatti personali con i professori.
+psychologie	"psychologie, de"	Siska studeert psychologie aan de universiteit. Daar leert ze alles over menselijke interactie.	Siska studia psicologia all'università. Lì impara tutto sulle interazioni umane.
+psychologisch	psychologisch	"De kinderen die het ongeval met de schoolbus gezien hadden, kregen psychologische steun van een psycholoog met wie ze konden praten."	I bambini che hanno assistito all'incidente dello scuolabus hanno ricevuto supporto psicologico da uno psicologo con cui potevano parlare.
+sociologie	"sociologie, de"	De studie van de sociologie onderzoekt de structuren en de dynamiek van de menselijke samenleving.	Lo studio della sociologia indaga le strutture e le dinamiche della società umana.
+specialist	"specialist, de [-en]"	De dokter is een specialist in zijn vakgebied.	Il medico è uno specialista nel suo campo.
+spreker	"spreker, de [-s]"	Onze professor van economie is een goede spreker: iedereen vindt het leuk om naar hem te luisteren.	Il nostro professore di economia è un bravo oratore: tutti amano ascoltarlo.
+student	"student, de [-en]"	Patrick is een goede student: hij studeert hard en hij maakt veel oefeningen.	Patrick è un bravo studente: studia sodo e fa molti esercizi.
+studie	"studie, de [-s]"	Volgens mij is rechten een moeilijke studierichting: je moet veel teksten uit het hoofd leren.	Secondo me il diritto è una disciplina difficile: bisogna imparare a memoria molti testi.
+systeem = de methode	"systeem = de methode, het [-temen]"	Dit computersysteem werkt heel precies en efficiënt.	Questo sistema informatico funziona in modo molto preciso ed efficiente.
+theorie	"theorie, de [-ën]"	"Als je geneeskunde studeert, moet je eerst goed de theorie kennen. Daarna kan jede theorie toepassen in de praktijk."	"Se studi medicina, devi prima conoscere bene la teoria. Successivamente tutti potranno applicare la teoria alla pratica."
+toepassen	"toepassen (paste toe, h. toegepast)"	Het is heel belangrijk de theorie direct toe te passen in de praktijk.	È molto importante applicare subito la teoria alla pratica.
+wetenschap	"wetenschap, de [-pen]"	Luca is goed in wiskunde en wetenschappen. - De wetenschap heeft ons geholpen om veel mysteries van het universum te begrijpen.	Luca è bravo in matematica e scienze. - La scienza ci ha aiutato a comprendere molti misteri dell'universo.
+wetenschappelijk	wetenschappelijk	Wetenschappelijk onderzoek heeft aangetoond dat regelmatige lichaamsbeweging goed is voor de gezondheid.	La ricerca scientifica ha dimostrato che l'attività fisica regolare fa bene alla salute.
+wetenschapper	"wetenschapper, de [-s]"	Als wetenschapper besteedt hij veel tijd aan het analyseren van complexe problemen.	"Come scienziato, dedica molto tempo all'analisi di problemi complessi."
