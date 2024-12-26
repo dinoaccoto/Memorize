@@ -1,0 +1,28 @@
+Woord	"Woord, artikel (extra info)"	Voorbeeldzin	Traduzione
+afhangen van	"afhangen van (hing af van, h. afgehangen van)"	"Blijven we binnen of gaan we naar buiten? Dat hangt af van het weer: bij slecht weer blijven we binnen, bij mooi weer gaan we naar buiten."	"Rimaniamo dentro o andiamo fuori? Dipende dal tempo: con il brutto tempo restiamo dentro, con il bel tempo andiamo fuori."
+afhankelijk (van)	afhankelijk (van)	Sporten we binnen of buiten vandaag? Dat is afhankelijk van het weer.	Facciamo sport dentro o fuori oggi? Dipende dal tempo.
+besluit	"besluit, het [-en]"	Alexander blijft bij zijn besluit. Hij gaat zijn plannen niet meer veranderen. Hij verhuist volgende zomer naar Peru.	Alexander resta fermo nella sua decisione. Non cambierà più i suoi piani. Si trasferirà la prossima estate in Perù.
+bezitten	"bezitten (bezat, h. bezeten)"	Henry is heel rijk. Hij bezit 5 huizen en 10 auto's.	Henry è molto ricco. Possiede 5 case e 10 auto.
+door middel van (d.m.v.)	door middel van (d.m.v.)	"Als je afwezig bent door ziekte, moet je dat aan de lesgever melden d.m.v. een ziektebriefje."	"Se sei assente per malattia, devi comunicarlo all'insegnante tramite un certificato medico."
+drukken	"drukken (drukte, h. gedrukt)"	"Als je op deze knop drukt, zet je de camera aan."	"Se premi questo pulsante, accendi la fotocamera."
+eigenaar	"eigenaar, de [-s/-naren]"	De eigenaar van ons huis wil onze huurprijs verhogen. Ik denk niet dat hij dat zomaar kan doen.	Il proprietario della nostra casa vuole aumentare il canone d'affitto. Non credo che possa farlo così facilmente.
+elektriciteit = de stroom	"elektriciteit = de stroom, de"	Wij proberen minder elektriciteit te verbruiken door onze elektrische apparaten 's nachts uit te zetten.	Cerchiamo di consumare meno elettricità spegnendo gli apparecchi elettrici di notte.
+elektrisch	elektrisch	Met een elektrische fiets kan je comfortabeler fietsen dan met een gewone fiets en je doet ook aan sport.	"Con una bicicletta elettrica puoi pedalare più comodamente che con una normale, facendo comunque sport."
+ex-	ex-	Ik wil mijn ex-man nooit meer zien. We hadden een heel slecht huwelijk.	Non voglio mai più vedere il mio ex marito. Avevamo un matrimonio molto infelice.
+functioneren	"functioneren (functioneerde, h. gefunctioneerd)"	Weet jij hoe dit apparaat functioneert? Ik kan het niet aanzetten.	Sai come funziona questo apparecchio? Non riesco ad accenderlo.
+gemeenschappelijk	gemeenschappelijk	In dit studentenhuis is er een gemeenschappelijke ruimte waar de studenten samen iets kunnen drinken en spelletjes spelen.	In questa casa per studenti c’è uno spazio comune dove gli studenti possono bere qualcosa insieme e giocare.
+handleiding	"handleiding, de [-en]"	Weet je niet hoe deze machine werkt? Dan moet je de handleiding eens grondig lezen.	Non sai come funziona questa macchina? Allora devi leggere attentamente il manuale.
+houden	"houden (hield, h. gehouden)"	Mag ik dit boek houden? Hoef ik het niet aan jou terug te geven?	Posso tenere questo libro? Non devo restituirtelo?
+in plaats van (i.p.v.)	in plaats van (i.p.v.)	Vandaag kies ik thee in plaats van koffie tijdens de pauze.	Oggi scelgo il tè al posto del caffè durante la pausa.
+in verband met (i.v.m)	in verband met (i.v.m)	We hebben een e-mail gekregen in verband met inschrijving voor het volgende niveau.	Abbiamo ricevuto un’e-mail riguardo all’iscrizione per il livello successivo.
+je	je (inform possessief: = jouw)	Heb je je naam al ingevuld?	Hai già scritto il tuo nome?
+kracht	"kracht, de [-en]"	Ik heb niet zoveel kracht in mijn armen. Kan jij me helpen om deze tafel te verhuizen?	Non ho molta forza nelle braccia. Puoi aiutarmi a spostare questo tavolo?
+leiden tot	"leiden tot (leidde tot, h. geleid tot)"	Een sterke motiviatie om te studeren leidt tot goede studieresultaten.	Una forte motivazione a studiare porta a buoni risultati accademici.
+om te	om te (conj)	Zij gaat elke dag in het park wandelen om fit te blijven en om zich te ontspannen.	Ogni giorno lei va a camminare nel parco per mantenersi in forma e rilassarsi.
+ontstaan	"ontstaan (ontstond, is ontstaan)"	In een relatie kunnen er problemen ontstaan als er niet niet genoeg met elkaar gepraat wordt.	In una relazione possono sorgere problemi se non si parla abbastanza tra di loro.
+sterkte	"sterkte, de"	Ik wens je veel sterkte in deze moeilijke tijd.	Ti auguro molta forza in questo momento difficile.
+stuk	"stuk, het"	Ik heb de taart in 8 stukken gesneden. Wie wil een stuk?	Ho tagliato la torta in 8 pezzi. Chi ne vuole un pezzo?
+te maken hebben met	"te maken hebben met (had te maken met, h. te maken gehad met)"	"Veel rampen, zoals overstromingen en droogte, hebben te maken met de klimaatverandering."	"Molte calamità, come alluvioni e siccità, sono legate al cambiamento climatico."
+technisch	technisch	"Als je vaatwasmachine niet meer werkt, is er waarschijnlijk een technisch probleem."	"Se la tua lavastoviglie non funziona più, probabilmente c'è un problema tecnico."
+verandering	"verandering, de [-en]"	Conservatieve mensen houden niet van verandering. Ze willen dat alles blijft zoals vroeger.	Le persone conservatrici non amano i cambiamenti. Vogliono che tutto rimanga com'era prima.
+verband	"verband , het [-en]"	Deze wetenschappelijke studie toont een duidelijk verband tussen lichaamsbeweging en een goede gezondheid.	Questo studio scientifico mostra un chiaro legame tra attività fisica e buona salute.
