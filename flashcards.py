@@ -65,7 +65,7 @@ if "colonne_da_mostrare" not in st.session_state:
     st.session_state["colonne_da_mostrare"] = None
 
 # Mostra i file .txt presenti nella directory "cards"
-txt_files = [f for f in os.listdir("cards") if f.endswith(".txt")]
+txt_files = sorted([f for f in os.listdir("cards") if f.endswith(".txt")])
 if not txt_files:
     st.error("Nessun file .txt trovato nella cartella 'cards'. Aggiungi dei file per continuare.")
     st.stop()
