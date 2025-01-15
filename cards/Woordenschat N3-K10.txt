@@ -1,0 +1,14 @@
+Woord	"Woord, artikel (extra info)"	Voorbeeldzin	Traduzione
+cijfer	"cijfer, het [-s]"	"Voor een wachtwoord gebruik je het best een combinatie van letters (a,b,c,...) en cijfers (1,2,3,...)"	Per una password è meglio usare una combinazione di lettere e numeri.
+dubbel	dubbel	"John ziet alles dubbel. Ofwel heeft hij te veel gedronken, ofwel heeft hij een nieuwe bril nodig."	"John vede tutto doppio. O ha bevuto troppo, o ha bisogno di un nuovo paio di occhiali."
+heel	heel	Ik ben heel blij met mijn nieuwe elektrische fiets.	Sono molto contento della mia nuova bici elettrica.
+hoeveelheid	"hoeveelheid, de [-heden]"	De zoete smaak hangt af van de hoeveelheid suiker in de cake.	Il sapore dolce dipende dalla quantità di zucchero nella torta.
+komma	"komma, de [-s] (,)"	"Als de hoofdzin na de bijzin staat, schrijf je een komma na de bijzin, zoals hier."	"Se la frase principale segue la subordinata, si mette una virgola dopo la subordinata, come in questo caso."
+kwart	"kwart, het"	Een kwart (25%) van de studenten uit deze groep komt uit Marokko.	Un quarto degli studenti di questo gruppo proviene dal Marocco.
+laatste	laatste	De laatste dag van het jaar is 31 december.	L'ultimo giorno dell'anno è il 31 dicembre.
+nul	nul (telw)	Er zijn nul studenten afwezig vandaag. Iedereen is in de klas. Niemand is afwezig.	Oggi non ci sono studenti assenti. Tutti sono in classe. Nessuno è assente.
+percentage	"percentage, het [-s]"	In deze groep is het percentage van geslaagde studenten hoog: 80 procent is geslaagd. De studenten hebben zeker goed gestudeerd.	In questo gruppo la percentuale di studenti promossi è alta: l’80% ha superato l'esame. Gli studenti hanno sicuramente studiato bene.
+procent = het percent	"procent = het percent, het [-en] (%)"	80 procent van de studenten uit deze groep is geslaagd. Dat is een hoog percentage.	L’80% degli studenti di questo gruppo è stato promosso. È una percentuale alta.
+totaal	"totaal, het [-talen]"	Voor deze marathon waren er in totaal 1252 lopers.	Per questa maratona c’erano in totale 1252 corridori.
+vooral	vooral (adv)	Luciano vindt alle Italiaanse gerechten lekker. Maar hij houdt vooral van pizza.	"Luciano apprezza tutti i piatti italiani, ma ama soprattutto la pizza."
+wat	wat (pron)	Heb je honger? Ik heb nog wat brood voor je. - Ga je trouwen? Wat leuk!	Hai fame? Ho ancora un po’ di pane per te. – Ti sposi? Che bello!
