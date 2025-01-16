@@ -2,7 +2,8 @@ import os
 import pandas as pd
 import streamlit as st
 import random
-# versione con gestione folder
+
+# Funzione per caricare il file .txt
 def carica_file_txt(nome_file):
     try:
         # Legge il file di testo con tab come delimitatore
@@ -12,14 +13,16 @@ def carica_file_txt(nome_file):
         st.error(f"Error while loading the file {nome_file}: {e}")
         return None
 
+# Funzione per creare i batch
 def crea_batch(tabella, batch_size):
     return [tabella[i:i + batch_size] for i in range(0, len(tabella), batch_size)]
 
+# Funzione per raggruppare righe
 def raggruppa_righe(tabella, r_el):
     rows = len(tabella)
     grouped_data = []
     for i in range(0, rows, r_el):
-        chunk = tabella.iloc[i:i+r_el]
+        chunk = tabella.iloc[i:i + r_el]
         combined_row = []
         for col in tabella.columns:
             combined_value = "\n".join(map(str, chunk[col]))
@@ -93,14 +96,15 @@ else:
         batch_size = st.number_input("Elements in a batch:", min_value=1, value=10)
         shuffle_choice = st.radio("Shuffle?", ("Yes", "No"), index=0)
 
-        if st.button("Upload"):
-            # Carica la tabella
+        col1, col2 = st.columns([1, 1])
+        if col1.button("Back"):
+            st.session_state["selected_directory"] = None
+            st.rerun()
+        if col2.button("Upload"):
             percorso_file = os.path.join(selected_path, nome_file)
             tabella = carica_file_txt(percorso_file)
             if tabella is not None:
-                # Raggruppa le righe
                 tabella = raggruppa_righe(tabella, r_el)
-                # Mischia le righe se scelto
                 if shuffle_choice == "Yes":
                     seed = random.randint(10, 50)
                     tabella = tabella.sample(frac=1, random_state=seed).reset_index(drop=True)
@@ -124,7 +128,7 @@ else:
         riga = st.session_state["riga"]
 
         if riga < len(batch):
-            st.write(f"### Batch {batch_index + 1}/{len(batches)}, Element {riga + 1}/{len(batch)}")
+            st.write(f"### Batch {batch_index + 1}/{len(batches)} - {len(batch) - riga} remaining")
             k = st.session_state["colonne_da_mostrare"]
             dettaglio_iniziale = ""
             for col_index in range(min(k, len(batch.columns))):
@@ -146,21 +150,34 @@ else:
 
                 st.markdown(dettagli_str, unsafe_allow_html=True)
 
-                col1, col2, col3 = st.columns([1, 1, 1])
+                col1, col2, col3, col4 = st.columns([1, 1, 1, 1])
 
-                if col1.button("Yes", key=f"yes_{riga}"):
+                if col1.button("Back", key=f"back_{riga}"):
+                    if st.session_state["riga"] > 0:
+                        st.session_state["riga"] -= 1
+                        st.session_state["mostra_dettagli"] = False
+                        st.session_state["answered"] = False
+                        st.rerun()
+                    elif st.session_state["batch_index"] > 0:
+                        st.session_state["batch_index"] -= 1
+                        st.session_state["riga"] = len(st.session_state["batches"][st.session_state["batch_index"]]) - 1
+                        st.session_state["mostra_dettagli"] = False
+                        st.session_state["answered"] = False
+                        st.rerun()
+
+                if col2.button("Yes", key=f"yes_{riga}"):
                     st.session_state["yes_count"] += 1
                     st.session_state["total_answers"] += 1
                     st.session_state["answered"] = True
 
-                if col3.button("No", key=f"no_{riga}"):
+                if col4.button("No", key=f"no_{riga}"):
                     st.session_state["no_count"] += 1
                     st.session_state["total_answers"] += 1
                     st.session_state["no_list"].append(batch.iloc[riga])
                     st.session_state["answered"] = True
 
                 if st.session_state["answered"]:
-                    if col2.button("Next", key=f"next_{riga}"):
+                    if col3.button("Next", key=f"next_{riga}"):
                         st.session_state["riga"] += 1
                         st.session_state["mostra_dettagli"] = False
                         st.session_state["answered"] = False
@@ -181,11 +198,7 @@ else:
                     st.session_state["batch_index"] += 1
 
             st.session_state["riga"] = 0
-            if st.button("Next"):
-                st.rerun()
-
+            st.rerun()
     else:
-        st.write("All batches completed.")
-        st.write(f"Total answers: {st.session_state['total_answers']}")
-        st.write(f"Yes: {st.session_state['yes_count']}")
-        st.write(f"No: {st.session_state['no_count']}")
+        st.write("All batches completed!")
+        st.stop()
