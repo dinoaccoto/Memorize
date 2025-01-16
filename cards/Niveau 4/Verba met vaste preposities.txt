@@ -132,7 +132,7 @@ vertalen	"naar/in, uit"	"vertalen naar/in, vertalen uit"	"Tradurre in, tradurre 
 vertellen	over	vertellen over	Raccontare di		
 vertrouwen	op	vertrouwen op	Fidarsi di		
 verwijzen	naar	verwijzen naar	Fare riferimento a		
-vluchten	voor	vluchten voor	Fuggire da	Veel mensen vluchten voor de oorlog.	Molte persone fuggono dalla guerra.	
+vluchten	voor	vluchten voor	Fuggire da	Veel mensen vluchten voor de oorlog.	Molte persone fuggono dalla guerra.
 voldoen	aan	voldoen aan	Soddisfare		
 vragen	over	vragen over	Chiedere di		
 waarschuwen	voor	waarschuwen voor	Avvisare di		
