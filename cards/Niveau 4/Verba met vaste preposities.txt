@@ -4,7 +4,7 @@ Verbum/uitdrukking	Prepositie	Volledig	Traduzione	Voorbeeldzinnen	Esempio
 afhangen	van	afhangen van	Dipendere da		
 afhankelijk zijn	van	afhankelijk zijn van	Essere dipendente da		
 afleiden	uit	afleiden uit	Dedurre da	Uit zijn antwoorden kun je afleiden dat hij het niet zeker weet.	Dalle sue risposte puoi dedurre che non ne e' sicuro.
-afspreken � iemand	met	afspreken met iemand	Incontrarsi con qualcuno		
+afspreken ... iemand	met	afspreken met iemand	Incontrarsi con qualcuno		
 akkoord gaan	met	akkoord gaan met	Essere d'accordo con		
 als gevolg	van	als gevolg van	Come conseguenza di		
 antwoorden	op	antwoorden op	Rispondere a		
@@ -43,8 +43,8 @@ een hekel hebben	aan	een hekel hebben aan	Avere avversione per
 eindigen	"met, om"	"eindigen met, om"	"Finire con, finire per"		
 ervaring hebben	met	ervaring hebben met	Avere esperienza con		
 feliciteren	met	feliciteren met	Congratularsi con		
-gaan � iets	over	gaan over	Trattare di		
-ge�nteresseerd zijn	in	ge�nteresseerd zijn in	Essere interessato a		
+gaan ... iets	over	gaan over	Trattare di		
+geïnteresseerd zijn	in	geïnteresseerd zijn in	Essere interessato a		
 gek zijn	op	gek zijn op	Essere pazzo di		
 geloven	in	geloven in	Credere in		
 gelukkig zijn	met	gelukkig zijn met	Essere felice con		
@@ -89,13 +89,13 @@ overtuigen	van	overtuigen van	Convincere di
 passen	"aan, op, bij"	"passen aan, passen op, passen bij"	"Adattare (o adattarsi); Badare a, fare attenzione a; Abbinarsi a, essere in sintonia con"		
 pijn hebben	"aan, in"	"pijn hebben aan, in"	"Avere dolore a, in"		
 praten/spreken ... iets	over	praten/spreken over iets	Parlare di qualcosa		
-praten/spreken � iemand	met	praten/spreken met iemand	Parlare con qualcuno		
+praten/spreken ... iemand	met	praten/spreken met iemand	Parlare con qualcuno		
 reageren	op	reageren op	Rispondere a		
 recht hebben	op	recht hebben op	Avere diritto a		
 rekenen	op	rekenen op	Contare su		
 rekening houden	met	rekening houden met	Tenere conto di		
 ruziemaken	met	ruziemaken met	Litigare con		
-samenwerken � iemand	met	samenwerken met iemand	Collaborare con qualcuno		
+samenwerken ... iemand	met	samenwerken met iemand	Collaborare con qualcuno		
 scheiden	van	scheiden van	Separarsi da		
 schrikken	van	schrikken van	Spaventarsi di		
 slagen	"in, voor"	"slagen in, slagen voor"	"Riuscire in, passare un esame di"		
@@ -150,7 +150,7 @@ zich schamen	voor	zich schamen voor	Vergognarsi di
 zich specialiseren	in	zich specialiseren in	Specializzarsi in		
 zich verontschuldigen	voor	zich verontschuldigen voor	Scusarsi per		
 zich voorbereiden	op	zich voorbereiden op	Prepararsi a		
-zich voorstellen � iemand	aan	zich voorstellen aan iemand	Presentarsi a qualcuno		
+zich voorstellen ... iemand	aan	zich voorstellen aan iemand	Presentarsi a qualcuno		
 zich wenden	tot	zich wenden tot	Rivolgersi a		
 zin hebben	in	zin hebben in	Avere voglia di		
 zoeken	naar	zoeken naar	Cercare		
