@@ -9,7 +9,7 @@ def carica_file_txt(nome_file):
         df = pd.read_csv(nome_file, delimiter="\t")
         return df
     except Exception as e:
-        st.error(f"Errore durante il caricamento del file {nome_file}: {e}")
+        st.error(f"Error while loading the file {nome_file}: {e}")
         return None
 
 def crea_batch(tabella, batch_size):
@@ -67,16 +67,16 @@ if "colonne_da_mostrare" not in st.session_state:
 # Mostra i file .txt presenti nella directory "cards"
 txt_files = sorted([f for f in os.listdir("cards") if f.endswith(".txt")])
 if not txt_files:
-    st.error("Nessun file .txt trovato nella cartella 'cards'. Aggiungi dei file per continuare.")
+    st.error("No .txt files found in the 'cards' folder. Add files to continue.")
     st.stop()
 
 # Se la tabella non è stata ancora caricata, chiedi all'utente di selezionare file, r_el, k, batch_size e shuffle
 if "tabella" not in st.session_state:
-    nome_file = st.selectbox("Seleziona il file da caricare:", txt_files, index=0)
-    r_el = st.number_input("Righe in un elemento:", min_value=1, value=1)
-    k = st.number_input("Colonne in un elemento:", min_value=1, value=1)
-    batch_size = st.number_input("Elementi in un batch:", min_value=1, value=10)
-    shuffle_choice = st.radio("Shuffle?", ("Sì", "No"), index=0)
+    nome_file = st.selectbox("Select the file to upload:", txt_files, index=0)
+    r_el = st.number_input("Rows in an element:", min_value=1, value=1)
+    k = st.number_input("Columns in an element:", min_value=1, value=1)
+    batch_size = st.number_input("Elements in a batch:", min_value=1, value=10)
+    shuffle_choice = st.radio("Shuffle?", ("Yes", "No"), index=0)
 
     if st.button("Carica"):
         # Carica la tabella
