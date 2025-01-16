@@ -170,7 +170,7 @@ if batch is not None:
     else:
         # Quando termina il batch corrente
         if st.session_state["in_riproposizione"]:
-            st.write("Completato il ripasso degli elementi 'No'.")
+            st.write("Review of elements completed.")
             st.session_state["no_list"] = []  # Resetta la lista "No"
             st.session_state["in_riproposizione"] = False
             st.session_state["batch_index"] += 1  # Passa al batch successivo
@@ -178,17 +178,17 @@ if batch is not None:
             st.write(f"Batch {batch_index + 1} completato!")
 
             if st.session_state["no_list"]:
-                st.write("Ricomincio con gli elementi con risposta 'No'.")
+                st.write("Review of the items with wrong answers.")
                 st.session_state["in_riproposizione"] = True
             else:
                 st.session_state["batch_index"] += 1  # Passa al batch successivo
 
         st.session_state["riga"] = 0  # Reset della riga
-        if st.button("Avanti"):
+        if st.button("Next"):
             st.rerun()
 
 else:
-    st.write("Tutti i batch sono completati.")
-    st.write(f"Risposte totali: {st.session_state['total_answers']}")
+    st.write("All batches completed.")
+    st.write(f"Total answers: {st.session_state['total_answers']}")
     st.write(f"Yes: {st.session_state['yes_count']}")
     st.write(f"No: {st.session_state['no_count']}")
