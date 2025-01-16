@@ -19,7 +19,7 @@ behoren	tot	behoren tot	Appartenere a
 belang hebben	aan	belang hebben aan	Avere interesse per		
 belangstelling hebben	voor	belangstelling hebben voor	Avere interesse per		
 beschermen	tegen	beschermen tegen	Proteggere contro		
-beschikken	over	beschikken over	Disporre di		
+beschikken	over	beschikken over	Disporre di	Hij beschikt over veel ervaring in deze sector.	Lui dispone di molta esperienza in questo settore.		
 bestaan	uit	bestaan uit	Consistere in		
 bestemd zijn	voor	bestemd zijn voor	Essere destinato a		
 bewust zijn	van	bewust zijn van	Essere consapevole di		
@@ -39,7 +39,7 @@ denken	aan	denken aan	Pensare a
 dienen	voor	dienen voor	Servire per		
 dol zijn	op	dol zijn op	Adorare		
 door middel	van	door middel van	Per mezzo di		
-een hekel hebben	aan	een hekel hebben aan	Avere avversione per		
+een hekel hebben	aan	een hekel hebben aan	Avere avversione per	Zij heeft een hekel aan liegen.	Lei detesta mentire.
 eindigen	"met, om"	"eindigen met, om"	"Finire con, finire per"		
 ervaring hebben	met	ervaring hebben met	Avere esperienza con		
 feliciteren	met	feliciteren met	Congratularsi con		
@@ -54,7 +54,7 @@ geven	aan	geven aan	Dare a
 goed zijn	in	goed zijn in	Essere bravo in		
 handig zijn	met	handig zijn met	Essere abile con		
 hopen	op	hopen op	Sperare in		
-herinneren	aan	herinneren aan	Ricordare a	Kun je me eraan herinneren om morgen de afspraak niet te vergeten?	
+herinneren	aan	herinneren aan	Ricordare a	Ik herinner me die dag nog heel goed. Kun je me eraan herinneren om morgen de afspraak niet te vergeten?
 het eens zijn	met	het eens zijn met	Essere d'accordo con		
 horen	bij	horen bij	Appartenere a	"Welke sleutel hoort bij deze deur? ("quale chiave appartiene a questa porta?") - Deze schoenen horen bij die jurk ("queste scarpe si abbinano a quel vestito").	
 houden	van	houden van	Amare		
@@ -82,7 +82,7 @@ nadenken	over	nadenken over	Riflettere su
 onderzoek doen	naar	onderzoek doen naar	Fare ricerca su		
 op bezoek gaan	bij	op bezoek gaan bij	Andare a trovare qualcuno		
 op zoek zijn	naar	op zoek zijn naar	Essere in cerca di		
-ophouden	met	ophouden met	Smettere con		
+ophouden	met	ophouden met	Smettere con	Kun je ophouden met dat lawaai?		Puoi smettere con quel rumore?	
 opletten	voor	opletten voor	Fare attenzione a		
 overtuigd zijn	van	overtuigd zijn van	Essere convinto di		
 overtuigen	van	overtuigen van	Convincere di		
@@ -132,7 +132,7 @@ vertalen	"naar/in, uit"	"vertalen naar/in, vertalen uit"	"Tradurre in, tradurre 
 vertellen	over	vertellen over	Raccontare di		
 vertrouwen	op	vertrouwen op	Fidarsi di		
 verwijzen	naar	verwijzen naar	Fare riferimento a		
-vluchten	voor	vluchten voor	Fuggire da		
+vluchten	voor	vluchten voor	Fuggire da	Veel mensen vluchten voor de oorlog.	Molte persone fuggono dalla guerra.	
 voldoen	aan	voldoen aan	Soddisfare		
 vragen	over	vragen over	Chiedere di		
 waarschuwen	voor	waarschuwen voor	Avvisare di		
@@ -151,7 +151,7 @@ zich specialiseren	in	zich specialiseren in	Specializzarsi in
 zich verontschuldigen	voor	zich verontschuldigen voor	Scusarsi per		
 zich voorbereiden	op	zich voorbereiden op	Prepararsi a		
 zich voorstellen ... iemand	aan	zich voorstellen aan iemand	Presentarsi a qualcuno		
-zich wenden	tot	zich wenden tot	Rivolgersi a		
+zich wenden	tot	zich wenden tot	Rivolgersi a	Voor meer informatie kunt u zich wenden tot de klantenservice.	Per ulteriori informazioni, può rivolgersi al servizio clienti.	
 zin hebben	in	zin hebben in	Avere voglia di		
 zoeken	naar	zoeken naar	Cercare		
 zorgen	voor	zorgen voor	Prendersi cura di		
