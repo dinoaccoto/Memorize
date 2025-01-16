@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import streamlit as st
 import random
-
+# versione con gestione folder
 def carica_file_txt(nome_file):
     try:
         # Legge il file di testo con tab come delimitatore
