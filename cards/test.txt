@@ -1,4 +1,4 @@
-colonna1	colonna2	colonna3
-ciao1	ciao2	ciao3
-mamma1	mamma2	mamma3
-pollo1	pollo2	pollo3
+col1	col2	col3
+abs	khkj	kjhkjh
+gjhghj	hjgjhg	jhgjhg
+buyfghy	cvjhkjl	kjnlkj kjhkj
