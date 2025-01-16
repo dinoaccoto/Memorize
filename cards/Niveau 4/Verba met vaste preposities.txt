@@ -82,7 +82,7 @@ nadenken	over	nadenken over	Riflettere su
 onderzoek doen	naar	onderzoek doen naar	Fare ricerca su		
 op bezoek gaan	bij	op bezoek gaan bij	Andare a trovare qualcuno		
 op zoek zijn	naar	op zoek zijn naar	Essere in cerca di		
-ophouden	met	ophouden met	Smettere con	Kun je ophouden met dat lawaai?		Puoi smettere con quel rumore?	
+ophouden	met	ophouden met	Smettere con	Kun je ophouden met dat lawaai?	Puoi smettere con quel rumore?
 opletten	voor	opletten voor	Fare attenzione a		
 overtuigd zijn	van	overtuigd zijn van	Essere convinto di		
 overtuigen	van	overtuigen van	Convincere di		
