@@ -78,7 +78,7 @@ if "tabella" not in st.session_state:
     batch_size = st.number_input("Elements in a batch:", min_value=1, value=10)
     shuffle_choice = st.radio("Shuffle?", ("Yes", "No"), index=0)
 
-    if st.button("Carica"):
+    if st.button("Upload"):
         # Carica la tabella
         percorso_file = os.path.join("cards", nome_file)
         tabella = carica_file_txt(percorso_file)
