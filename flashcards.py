@@ -175,7 +175,7 @@ if batch is not None:
             st.session_state["in_riproposizione"] = False
             st.session_state["batch_index"] += 1  # Passa al batch successivo
         else:
-            st.write(f"Batch {batch_index + 1} completato!")
+            st.write(f"Batch {batch_index + 1} completed!")
 
             if st.session_state["no_list"]:
                 st.write("Review of the items with wrong answers.")
