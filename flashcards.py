@@ -119,10 +119,26 @@ else:
     batches = st.session_state["batches"]
     batch_index = st.session_state["batch_index"]
 
-    if st.session_state["in_riproposizione"] and st.session_state["no_list"]:
-        batch = pd.DataFrame(st.session_state["no_list"]).reset_index(drop=True)
+#    if st.session_state["in_riproposizione"] and st.session_state["no_list"]:
+#        batch = pd.DataFrame(st.session_state["no_list"]).reset_index(drop=True)
+#    else:
+#        batch = batches[batch_index] if batch_index < len(batches) else None
+
+
+    if st.session_state["in_riproposizione"]:
+        if st.session_state["no_list"]:
+            #st.markdown("### Let's review wrong answers...")
+            st.write("Review of wrong answers")
+            batch = pd.DataFrame(st.session_state["no_list"]).reset_index(drop=True)
+        else:
+            st.warning("No wrong answers to review!")
+            st.session_state["in_riproposizione"] = False
+            st.rerun()
     else:
         batch = batches[batch_index] if batch_index < len(batches) else None
+
+
+
 
     if batch is not None:
         riga = st.session_state["riga"]
@@ -200,5 +216,6 @@ else:
             st.session_state["riga"] = 0
             st.rerun()
     else:
-        st.write("All batches completed!")
+        #st.write("All batches completed!")
+        st.markdown("### All batches completed!")
         st.stop()
