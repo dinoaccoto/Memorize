@@ -1,0 +1,147 @@
+Infinitief	Imp. Sing.	Imp. Plur.	Participium	Hebben/Zijn	T:	Voorbeeldzin	Example
+bakken	bakte	bakten	gebakken	+h	bake	Ik bak een taart.	I bake a cake.
+barsten	barstte	barstten	gebarsten	+z	burst	De vaas barstte in duizend stukken.	The vase burst into a thousand pieces.
+beginnen	begon	begonnen	begonnen	+z	begin	We beginnen met de vergadering.	We are starting the meeting.
+begrijpen	begreep	begrepen	begrepen	h	understand	Ik begrijp wat je bedoelt.	I understand what you mean.
+besluiten	besloot	besloten	besloten	h	decide	Hij besloot om te vertrekken.	He decided to leave.
+bestaan	bestond	bestonden	bestaan	h	exist	Er bestaan veel verschillende meningen.	There are many different opinions.
+bevelen	beval	bevalen	bevolen	h	command	De generaal beveelt zijn troepen.	The general commands his troops.
+bewegen	bewoog	bewogen	bewogen	h	move	Hij beweegt zijn arm langzaam.	He moves his arm slowly.
+bewijzen	bewees	bewezen	bewezen	h	prove	Ze bewijzen hun onschuld.	They prove their innocence.
+bezitten	bezat	bezaten	bezeten	h	own	Ik bezit een mooi huis.	I own a beautiful house.
+bezoeken	bezocht	bezochten	bezocht	h	visit	We bezoeken het museum morgen.	We are visiting the museum tomorrow.
+bidden	bad	baden	gebeden	h	pray	Ze bidden voor een goede afloop.	They pray for a good outcome.
+bieden	bood	boden	geboden	h	offer	Hij biedt haar een glas water aan.	He offers her a glass of water.
+bijten	beet	beten	gebeten	h	bite	De hond bijt in zijn speeltje.	The dog bites its toy.
+binden	bond	bonden	gebonden	h	bind	Ik bind het touw stevig vast.	I tie the rope tightly.
+blazen	blies	bliezen	geblazen	h	blow	De wind blaast door de bomen.	The wind blows through the trees.
+blijken	bleek	bleken	gebleken	h	appear	Het blijkt een goed idee te zijn.	It turns out to be a good idea.
+blijven	bleef	bleven	gebleven	z	stay	Ze blijven nog even praten.	They stay and chat for a while.
+blinken	blonk	blonken	geblonken	h	shine	De spiegel blinkt na het poetsen.	The mirror shines after cleaning.
+breken	brak	braken	gebroken	h	break	Ik breek een stuk brood af.	I break off a piece of bread.
+brengen	bracht	brachten	gebracht	h	bring	Hij brengt de kinderen naar school.	He takes the kids to school.
+buigen	boog	bogen	gebogen	h	bend	Ze buigt voor het publiek.	She bows to the audience.
+denken	dacht	dachten	gedacht	h	think	Ik denk dat het gaat regenen.	I think it s going to rain.
+doen	deed	deden	gedaan	h	do	Wat doe je vanavond?	What are you doing tonight?
+dragen	droeg	droegen	gedragen	h	carry	Hij draagt een zware tas.	He carries a heavy bag.
+drinken	dronk	dronken	gedronken	h	drink	We drinken koffie in de ochtend.	We drink coffee in the morning.
+duiken	dook	doken	gedoken	h	dive	Ze duikt van de hoge plank.	She dives off the high board.
+dwingen	dwong	dwongen	gedwongen	h	force	De politie dwingt hem te stoppen.	The police force him to stop.
+eten	at	aten	gegeten	h	eat	We eten pizza vanavond.	We are eating pizza tonight.
+fluiten	floot	floten	gefloten	h	whistle	Hij fluit een vrolijk deuntje.	He whistles a cheerful tune.
+gaan	ging	gingen	gegaan	z	go	Ik ga naar het park.	I am going to the park.
+genezen	genas	genazen	genezen	h	heal	De wond geneest langzaam.	The wound heals slowly.
+genieten	genoot	genoten	genoten	h	enjoy	Ze geniet van het mooie weer.	She enjoys the nice weather.
+geven	gaf	gaven	gegeven	h	give	Hij geeft haar een cadeau.	He gives her a gift.
+gieten	goot	goten	gegoten	h	pour	Ze giet water in het glas.	She pours water into the glass.
+glijden	gleed	gleden	gegleden	h/z	slide	De kinderen glijden van de glijbaan.	The children slide down the slide.
+glimmen	glom	glommen	geglommen	h	gleam	De auto glimt in de zon.	The car gleams in the sun.
+grijpen	greep	grepen	gegrepen	h	grasp	Hij grijpt de bal met   n hand.	He grabs the ball with one hand.
+hangen	hing	hingen	gehangen	h	hang	De lamp hangt aan het plafond.	The lamp hangs from the ceiling.
+hebben	had	hadden	gehad	h	have	Ik heb een nieuw boek gekocht.	I bought a new book.
+helpen	hielp	hielpen	geholpen	h	help	Kun je me helpen met mijn huiswerk?	Can you help me with my homework?
+heten	heette	heetten	geheten	h	be called	"Hij heet Jan, en zij heet Anna."	"His name is Jan, and her name is Anna."
+houden	hield	hielden	gehouden	h	hold	Ze houdt van chocolade.	She loves chocolate.
+kiezen	koos	kozen	gekozen	h	choose	Hij kiest het rode T-shirt.	He chooses the red T-shirt.
+kijken	keek	keken	gekeken	h	look	Ik kijk naar de vogels in de tuin.	I watch the birds in the garden.
+klimmen	klom	klommen	geklommen	h/z	climb	Ze klimt naar de top van de berg.	She climbs to the top of the mountain.
+klinken	klonk	klonken	geklonken	h	sound	De bel klinkt hard door het huis.	The bell sounds loudly through the house.
+knijpen	kneep	knepen	geknepen	h	pinch	Hij knijpt in de sinaasappel.	He squeezes the orange.
+komen	kwam	kwamen	gekomen	z	come	We komen morgen op bezoek.	We are coming to visit tomorrow.
+kopen	kocht	kochten	gekocht	h	buy	Ze koopt een nieuwe jas.	She buys a new coat.
+krijgen	kreeg	kregen	gekregen	h	get	Hij krijgt een brief van zijn oma.	He receives a letter from his grandmother.
+krimpen	kromp	krompen	gekrompen	z	shrink	De trui krimpt in de was.	The sweater shrinks in the wash.
+kruipen	kroop	kropen	gekropen	h/z	crawl	De baby kruipt over de vloer.	The baby crawls across the floor.
+kunnen	kon	konden	gekund	h	be able to	Ik kan goed zwemmen.	I can swim well.
+lachen	lachte	lachten	gelachen	h	laugh	Ze lacht om de grap.	She laughs at the joke.
+laten	liet	lieten	gelaten	h	let	Laat me je iets vertellen.	Let me tell you something.
+lezen	las	lazen	gelezen	h	read	Ik lees graag romans.	I enjoy reading novels.
+liegen	loog	logen	gelogen	h	lie (not tell the truth)	Hij liegt nooit tegen zijn vrienden.	He never lies to his friends.
+liggen	lag	lagen	gelegen	h	lie (recline)	Het boek ligt op tafel.	The book is lying on the table.
+lijden	leed	leden	geleden	h	suffer	Ze lijdt aan een zeldzame ziekte.	She suffers from a rare disease.
+lijken	leek	leken	geleken	h	seem	Het lijkt een eenvoudige oplossing.	It seems like a simple solution.
+lopen	liep	liepen	gelopen	h	walk	Hij loopt elke ochtend vijf kilometer.	He walks five kilometers every morning.
+meten	mat	maten	gemeten	h	measure	De dokter meet zijn bloeddruk.	The doctor measures his blood pressure.
+mijden	meed	meden	gemeden	h	avoid	Hij mijdt drukke straten.	He avoids busy streets.
+moeten	moest	moesten	gemoeten	h	must	Je moet je huiswerk maken.	You must do your homework.
+mogen	mocht	mochten	gemogen	h	may	We mogen naar het feest gaan.	We may go to the party.
+nemen	nam	namen	genomen	h	take	Ik neem een stuk chocolade.	I take a piece of chocolate.
+onderzoeken	onderzocht	onderzochten	onderzocht	h	investigate	Ze onderzoeken het probleem grondig.	They are thoroughly investigating the problem.
+ontbijten	ontbeet	ontbeten	ontbeten	h	have breakfast	We ontbijten meestal om acht uur.	We usually have breakfast at eight o clock.
+ontstaan	ontstond	ontstonden	ontstaan	z	arise	Er ontstond een hevige discussie.	A heated discussion arose.
+optreden	trad op	traden op	opgetreden	h/z	perform	De band treedt op in Amsterdam.	The band performs in Amsterdam.
+overlijden	overleed	overleden	overleden	z	pass away	Hij overleed op jonge leeftijd.	He passed away at a young age.
+raden	raadde	raadden	geraden	h	guess	Kun jij het antwoord raden?	Can you guess the answer?
+rijden	reed	reden	gereden	h/z	ride	Ik rijd elke dag naar mijn werk.	I drive to work every day.
+roepen	riep	riepen	geroepen	h	call	Ze roepen om hulp.	They call for help.
+ruiken	rook	roken	geroken	h	smell	De bloemen ruiken heerlijk.	The flowers smell wonderful.
+scheiden	scheidde	scheidden	gescheiden	z	separate	Ze scheiden na tien jaar huwelijk.	They separated after ten years of marriage.
+schelden	schold	scholden	gescholden	h	scold	Hij scheldt zijn broer uit.	He scolds his brother.
+schenken	schonk	schonken	geschonken	h	pour	Hij schenkt een glas wijn in.	He pours a glass of wine.
+scheren	schoor	schoren	geschoren	h	shave	Hij scheert zich elke ochtend.	He shaves every morning.
+schijnen	scheen	schenen	geschenen	h	shine	De zon schijnt door de wolken.	The sun shines through the clouds.
+schieten	schoot	schoten	geschoten	h	shoot	Ze schiet de bal in het doel.	She shoots the ball into the goal.
+schrijven	schreef	schreven	geschreven	h	write	Ik schrijf een brief aan mijn vriend.	I am writing a letter to my friend.
+schrikken	schrok	schrokken	geschrokken	z	startle	De kat schrikt van het harde geluid.	The cat gets startled by the loud noise.
+schuiven	schoof	schoven	geschoven	h	push	Ze schuift de stoel naar achteren.	She slides the chair backward.
+slaan	sloeg	sloegen	geslagen	h	hit	De jongen slaat de bal met zijn hand.	The boy hits the ball with his hand.
+slapen	sliep	sliepen	geslapen	h	sleep	We slapen elke nacht acht uur.	We sleep eight hours every night.
+sluipen	sloop	slopen	geslopen	h/z	sneak	Hij sluipt stil door de kamer.	He sneaks quietly through the room.
+sluiten	sloot	sloten	gesloten	h	close	Ze sluit het raam voor het regent.	She closes the window before it rains.
+smelten	smolt	smolten	gesmolten	z	melt	De boter smelt in de pan.	The butter melts in the pan.
+snijden	sneed	sneden	gesneden	h	cut	Ze snijdt het brood in plakken.	She cuts the bread into slices.
+spijten	speet	speten	gespeten	h	regret	Het spijt me dat ik te laat ben.	I m sorry that I m late.
+spreken	sprak	spraken	gesproken	h	speak	Hij spreekt vloeiend Nederlands.	He speaks Dutch fluently.
+springen	sprong	sprongen	gesprongen	h	jump	De kinderen springen over het touw.	The children jump over the rope.
+staan	stond	stonden	gestaan	h	stand	Hij staat bij de deur te wachten.	"He is standing by the door, waiting."
+steken	stak	staken	gestoken	h	stab	Ze steekt haar hand op in de klas.	She raises her hand in class.
+stelen	stal	stalen	gestolen	h	steal	De dief steelt een kostbaar schilderij.	The thief steals a valuable painting.
+sterven	stierf	stierven	gestorven	z	die	De plant sterft zonder water.	The plant dies without water.
+stijgen	steeg	stegen	gestegen	z	rise	De ballon stijgt langzaam op.	The balloon slowly rises.
+stinken	stonk	stonken	gestonken	h	stink	De vuilnisbak stinkt als hij open is.	The trash can stinks when it s open.
+strijden	streed	streden	gestreden	h	fight	Ze strijden voor gelijke rechten.	They fight for equal rights.
+strijken	streek	streken	gestreken	h	iron	Hij strijkt zijn overhemd glad.	He irons his shirt smooth.
+Toegeven	gaf toe	gaven toe	toegegeven	h	admit	Ze geeft toe dat ze fout zat.	She admits that she was wrong.
+Toelaten	liet toe	lieten toe	toegelaten	h	allow	De leraar laat hem de opdracht maken.	The teacher lets him complete the task.
+trekken	trok	trokken	getrokken	h	pull	Ze trekken aan het zware touw.	They pull on the heavy rope.
+treffen	trof	troffen	getroffen	h	hit	Hij treft een oude vriend op straat.	He meets an old friend on the street.
+vallen	viel	vielen	gevallen	z	fall	Ik val bijna van de trap.	I almost fall down the stairs.
+vangen	ving	vingen	gevangen	h	catch	De kat vangt een muis.	The cat catches a mouse.
+varen	voer	voeren	gevaren	h/z	sail	Ze varen over de rivier.	They sail across the river.
+vechten	vocht	vochten	gevochten	h	fight	Ze vechten tegen onrecht.	They fight against injustice.
+verbergen	verborg	verborgen	verborgen	h	hide	Hij verbergt het cadeau onder het bed.	He hides the gift under the bed.
+verbieden	verbood	verboden	verboden	h	forbid	Ze verbieden roken in het restaurant.	They forbid smoking in the restaurant.
+verbinden	verbond	verbonden	verbonden	h	connect	Hij verbindt de twee kabels met elkaar.	He connects the two cables together.
+verdwijnen	verdween	verdwenen	verdwenen	z	disappear	Het vliegtuig verdwijnt achter de wolken.	The airplane disappears behind the clouds.
+vergelijken	vergeleek	vergeleken	vergeleken	h	compare	Hij vergelijkt de prijzen van de producten.	He compares the prices of the products.
+vergeten	vergat	vergaten	vergeten	h/z	forget	Ik vergeet altijd mijn sleutels.	I always forget my keys.
+verkopen	verkocht	verkochten	verkocht	h	sell	Ze verkoopt haar oude meubels.	She sells her old furniture.
+verliezen	verloor	verloren	verloren	h	lose	Hij verliest zijn portemonnee.	He loses his wallet.
+verschijnen	verscheen	verschenen	verschenen	z	appear	Ze verschijnt plotseling in de kamer.	She suddenly appears in the room.
+vertrekken	vertrok	vertrokken	vertrokken	z	depart	We vertrekken morgen vroeg.	We are leaving early tomorrow.
+verzinnen	verzon	verzonnen	verzonnen	h	invent	Ze verzint een spannend verhaal.	She invents an exciting story.
+vinden	vond	vonden	gevonden	h	find	Ik vind deze film heel leuk.	I really like this movie.
+vliegen	vloog	vlogen	gevlogen	h/z	fly	De vogel vliegt door de lucht.	The bird flies through the sky.
+vouwen	vouwde	vouwden	gevouwen	h	fold	Ze vouwt het papier netjes op.	She folds the paper neatly.
+vragen	vroeg	vroegen	gevraagd	h	ask	Hij vraagt de weg aan een voorbijganger.	He asks a passerby for directions.
+vriezen	vroof	vroren	gevroren	h	freeze	Het water bevriest bij nul graden.	The water freezes at zero degrees.
+wassen	waste	wasten	gewassen	h	wash	Hij wast zijn auto elke week.	He washes his car every week.
+wegen	woog	wogen	gewogen	h	weigh	Ze weegt de ingredi nten nauwkeurig af.	She weighs the ingredients carefully.
+weten	wist	wisten	geweten	h	know	Ik weet niet wat ik moet doen.	I don t know what to do.
+wijzen	wees	wezen	gewezen	h	point	Hij wijst naar de kaart op de muur.	He points to the map on the wall.
+willen	wou/wilde	wilden	gewild	h	want	Ze wil graag naar het concert.	She wants to go to the concert.
+winnen	won	wonnen	gewonnen	h	win	Hij wint de wedstrijd.	He wins the competition.
+worden	werd	werden	geworden	z	become	Hij wordt later dokter.	He will become a doctor later.
+wrijven	wreef	wreven	gewreven	h	rub	Ze wrijft de vlek uit haar kleding.	She rubs the stain out of her clothes.
+zeggen	zei/zegde	zeiden/zegden	gezegd	h	say	Hij zegt dat hij blij is.	He says that he is happy.
+zenden	zond	zonden	gezonden	h	send	Ze zenden het programma live uit.	They broadcast the program live.
+zien	zag	zagen	gezien	h	see	Ik zie een regenboog in de lucht.	I see a rainbow in the sky.
+zijn	was	waren	geweest	z	be	Ze zijn erg blij met het cadeau.	They are very happy with the gift.
+zingen	zong	zongen	gezongen	h	sing	Hij zingt een lied voor het publiek.	He sings a song for the audience.
+zinken	zonk	zonken	gezonken	z	sink	De steen zinkt naar de bodem.	The stone sinks to the bottom.
+zitten	zat	zaten	gezeten	h	sit	Ik zit graag bij het raam.	I like sitting by the window.
+zoeken	zocht	zochten	gezocht	h	search	Ze zoekt haar verloren sleutels.	She is looking for her lost keys.
+zuigen	zoog	zogen	gezogen	h	suck	De baby zuigt op zijn duim.	The baby sucks on its thumb.
+zwellen	zwol	zwollen	gezwollen	z	swell	Zijn knie zwelt op na de val.	His knee swells up after the fall.
+zwemmen	zwom	zwommen	gezwommen	h	swim	Ze zwemmen in het zwembad.	They swim in the pool.
+zwijgen	zweeg	zwegen	gezwegen	h	be silent	Hij zwijgt tijdens het gesprek.	He remains silent during the conversation.
