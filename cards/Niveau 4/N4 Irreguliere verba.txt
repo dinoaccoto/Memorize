@@ -1,4 +1,4 @@
-Infinitief	Imp. Sing.	Imp. Plur.	Hebben/Zijn	Participium	Voorbeeldzin	Example	Voorbeeldzin	Example
+Infinitief	Imp. Sing.	Imp. Plur.	Hebben/Zijn	Participium	Voorbeeldzin 1	Example 1	Voorbeeldzin 2	Example 2
 bakken	bakte	bakten	H	gebakken	Ik bak een taart.	I bake a cake.	Ik heb brood gebakken.	I have baked bread.
 barsten	barstte	barstten	Z	gebarsten	De vaas barstte in duizend stukken.	The vase burst into a thousand pieces.	De vaas is gebarsten.	The vase has cracked.
 beginnen	begon	begonnen	Z	begonnen	We beginnen met de vergadering.	We are starting the meeting.	Hij is met de vergadering begonnen.	He has started the meeting.
