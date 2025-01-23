@@ -1,4 +1,4 @@
-Woord/Uitdrukking	More	Voorbeeldzin	Esempio
+Woord/Uitdrukking	More	Voorbeeldzin	Example
 aandoening, de	-	De arts diagnosticeerde een ernstige aandoening.	The doctor diagnosed a serious illness.
 allergie, de	pl: allergieën	-	-
 antibioticum, het	pl:  antibiotica	-	-
