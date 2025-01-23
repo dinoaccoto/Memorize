@@ -1,0 +1,86 @@
+Woord/Uitdrukking	More	Voorbeeldzin	Esempio
+aandoening, de	-	De arts diagnosticeerde een ernstige aandoening.	The doctor diagnosed a serious illness.
+allergie, de	pl: allergieën	-	-
+antibioticum, het	pl:  antibiotica	-	-
+bacterie, de	pl:  bacteriën	-	-
+behandeling, de	-	De behandeling van de patiënt duurt ongeveer twee weken.	The treatment of the patient lasts about two weeks.
+besmettelijk	adj.	De griep is erg besmettelijk en kan zich snel verspreiden.	The flu is very contagious and can spread quickly.
+beterschap, de	-	Ik hoop dat je snel beter wordt. Beterschap!	I hope you get well soon. Get well soon!
+bevalling, de	-	De bevalling verliep goed, en moeder en kind maken het prima.	The birth went well, and mother and baby are doing fine.
+beven	beefde, beefden; H gebeefd	Het begon te beven van de kou.	It began to tremble with cold.
+bewusteloos	adj.	Na het ongeluk lag hij bewusteloos op de grond.	After the accident he lay unconscious on the ground.
+bewustzijn, het	-	Na de operatie kwam hij langzaam weer bij het bewustzijn.	After the operation he slowly regained consciousness.
+bloeddruk, de	-	De dokter controleerde mijn bloeddruk tijdens het onderzoek.	-
+braken	braakte, braakten; H gebraakt	Hij moest braken na het eten van iets verkeerds.	He had to throw up after eating something wrong.
+breuk, de	-	Hij had een breuk in zijn arm na het ongeluk.	He had a broken arm after the accident.
+chirurg, de	pl. chirurgen	-	-
+chronisch	adj.	-	-
+diarree, de	-	-	-
+dodelijk	adj.	Het ongeluk was dodelijk voor de bestuurder.	The accident was fatal for the driver.
+duizelig	adj.	Ik voel me duizelig na het opstaan.	I feel dizzy after standing up.
+epidemie, de	pl: epidemieën	-	-
+erfelijk	adj.	Diabetes type 2 is vaak erfelijk.	Type 2 diabetes is often hereditary.
+flauwvallen	viel flauw, vielen flauw; Z flauwgevallen	Ze viel flauw toen ze de slechte nieuws hoorde.	She fainted when she heard the bad news.
+geneeskunde, de	-	Hij studeert geneeskunde aan de universiteit.	-
+genezen	genas, genazen; H genezen	Het zal een paar weken duren voordat je volledig genezen bent.	It will take a few weeks for you to fully heal.
+genezing, de	-	De arts zei dat de genezing van de wond snel zou verlopen.	The doctor said that the wound would heal quickly.
+gewond	adj.	Hij was gewond na het ongeluk.	He was injured after the accident.
+gewonde, de	-	De gewonde werd snel naar het ziekenhuis gebracht.	-
+gezondheidsklachten, de	-	Ze heeft verschillende gezondheidsklachten, zoals hoofdpijn en vermoeidheid.	She has several health problems, such as headaches and fatigue.
+giftig	adj.	De plant is giftig, dus raak hem niet aan.	The plant is poisonous, so do not touch it.
+gips, het	-	Hij heeft zijn arm in het gips na het breken.	-
+hartaandoening, de	-	Hij heeft een hartaandoening en moet zijn levensstijl aanpassen.	He has a heart condition and has to adjust his lifestyle.
+hechten	hechtte, hechtten; H (zich) gehecht	De dokter moest de wond hechten.	The doctor had to stitch the wound.
+hoesten	hoestte, hoestten; H gehoest	Ze begon te hoesten na het inademen van de koude lucht.	-
+huisarts, de [-en]	pl: huisartsen	Ik moet een afspraak maken bij de huisarts voor mijn jaarlijkse controle.	-
+inwendig	adj.	De patiënt heeft inwendige verwondingen door het ongeluk.	The patient has internal injuries from the accident.
+kanker, de	pl: kankers	-	-
+koorts, de	-	-	-
+lijden (aan)	leed, leden; H/Z geleden	Hij lijdt aan een ernstige ziekte.	He is suffering from a serious illness.
+medisch (geneeskundig)	adj.	-	-
+misselijk	adj.	Ik voel me misselijk na het eten van te veel.	-
+niezen	niesde, niesden; H geniesd	Ze begon te niezen toen ze de bloemen rook.	-
+ontsteken	ontstak, ontstaken; Z ontstoken	De dokter zei dat mijn keel was ontstoken door een infectie.	The doctor said my throat was inflamed due to an infection.
+ontsteking, de	-	De arts heeft de ontsteking in zijn knie behandeld.	The doctor treated the inflammation in his knee.
+oogarts, de	pl: oogartsen	-	-
+opereren	opereerde, opereerden; H geopereerd	De dokter moest de patiënt opereren om de schade te herstellen.	The doctor had to operate on the patient to repair the damage.
+(zich) overdragen	droeg over, droegen over; H (zich) overgedraven	Hij zal zijn taken aan een collega overdragen voordat hij met pensioen gaat. Het virus kan worden overgedragen door direct contact.	He will transfer his duties to a colleague before he retires. The virus can be transmitted through direct contact.
+overgeven	gaf over, gaven over; H overgegeven	Hij moest overgeven na het eten van iets dat niet goed was.	-
+pijnlijk	adj,	De wond is pijnlijk en moet goed verzorgd worden.	-
+pil, de	pl. pillen	-	-
+pleister, de	pl. pleisters	-	-
+preventief	adj.	-	-
+rillen	rilde, rilden; H gerild	Hij begon te rillen van de kou.	He began to shiver with cold.
+risico, het	pl. risico's	-	-
+schadelijk	adj.	Roken is schadelijk voor je gezondheid.	Smoking is harmful to your health.
+spuiten	spoot, spoten; H. gespoten	De dokter moest een vaccin spuiten. Ze spoot de waterverf op het canvas.	The doctor had to inject a vaccine. She sprayed the watercolor on the canvas.
+sterkte, de	-	Ik wens je veel sterkte tijdens de operatie.	I wish you much strength during the operation.
+stress, de	-	-	-
+symptoom, het	pl. symptomen	-	-
+tablet, de	pl. tabletten	-	-
+tandarts, de	pl. tandartsen	-	-
+temperatuur, de	-	-	-
+therapie, de	pl.  therapiën	-	-
+thermometer, de	pl. thermometers	-	-
+uitwendig	adj.	De arts keek naar de uitwendige tekenen van de verwonding.	The doctor looked at the external signs of the injury.
+vaccin, het	pl. vaccins	-	-
+verband, het	-	De arts bracht een verband aan om de wond te bedekken.	The doctor applied a bandage to cover the wound.
+verbeteren	verbeterde, verbeterden; Z verbeterd	-	-
+verbetering, de	-	-	-
+verkoudheid, de	pl. verkhoudheden	Ik heb een verkoudheid en voel me niet goed.	-
+verpleegster, de	pl. verpleegsters	De verpleegster hielp de patiënt met het inname van zijn medicijnen.	-
+verzorging, de	-	De verzorging van de patiënt is de taak van de verpleegster.	The care of the patient is the nurse's job.
+verzwakken (verzwakte, is verzwakt)	verzwakte, verzwakten; Z verzwakt	De ziekte [malattia] kan je immuunsysteem verzwakken.	The disease can weaken your immune system.
+virus, het	pl: virussen	-	-
+voorschrift, het	-	Ik moet het voorschrift meenemen naar de apotheek.	-
+voorschrijven	schreef voor, schreven voor; H voorgeschreven	De dokter heeft een medicijn voorgeschreven voor mijn hoest.	-
+vruchtbaar	adj.	Dit land is zeer vruchtbaar voor landbouw.	This land is very fertile for agriculture.
+wachtkamer, de	pl: wachtkamers	-	-
+wonde, de	pl: wonden	De wonde werd goed verzorgd door de verpleegster.	The wound was well cared for by the nurse.
+zalf, de	pl: zalven	Je moet de zalf op de wond aanbrengen.	You should apply the ointment to the wound.
+zeer doen	deed zeer, deden zeer; H zeer gedaan	Mijn been doet zeer na de val.	My leg hurts after the fall.
+ziekenfonds, het	-	Hij is aangesloten bij een ziekenfonds voor zijn medische kosten.	He is affiliated with a health insurance fund for his medical expenses.
+zorgverzekering, de	-	Iedereen in Nederland is verplicht om een zorgverzekering af te sluiten.	Everyone in the Netherlands is required to take out health insurance.
+zwaargewond	adj.	De bestuurder raakte zwaargewond bij het ongeluk.	The driver was seriously injured in the accident.
+zwanger	adj.	Ze is zwanger van haar tweede kind.	-
+zwangerschap, de	pl: zwangerschappen	Ze is in de derde maand van haar zwangerschap.	-
