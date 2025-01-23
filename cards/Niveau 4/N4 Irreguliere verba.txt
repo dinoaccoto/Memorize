@@ -36,7 +36,7 @@ geven	gaf	gaven	H	gegeven	Hij geeft haar een cadeau.	He gives her a gift.	Hij he
 gieten	goot	goten	H	gegoten	Ze giet water in het glas.	She pours water into the glass.	Ze heeft de planten water gegoten.	She has poured water on the plants.
 glijden	gleed	gleden	H/Z	gegleden	De kinderen glijden van de glijbaan.	The children slide down the slide.	De schaatser is over het ijs gegleden.	The skater has slid over the ice.
 glimmen	glom	glommen	H	geglommen	De auto glimt in de zon.	The car gleams in the sun.	De auto heeft in het donker geglimd.	The car has gleamed in the dark.
-grijpen	greep	grepen	H	gegrepen	Hij grijpt de bal met   n hand.	He grabs the ball with one hand.	Hij heeft de bal snel gegrepen.	He has grabbed the ball quickly.
+grijpen	greep	grepen	H	gegrepen	Hij grijpt de bal met  de hand.	He grabs the ball with the hand.	Hij heeft de bal snel gegrepen.	He has grabbed the ball quickly.
 hangen	hing	hingen	H	gehangen	De lamp hangt aan het plafond.	The lamp hangs from the ceiling.	De jas heeft aan de kapstok gehangen.	The coat has hung on the coat rack.
 hebben	had	hadden	H	gehad	Ik heb een nieuw boek gekocht.	I bought a new book.	Ik heb altijd veel boeken gehad.	I have always had many books.
 helpen	hielp	hielpen	H	geholpen	Kun je me helpen met mijn huiswerk?	Can you help me with my homework?	Hij heeft me met de verhuizing geholpen.	He has helped me with the move.
